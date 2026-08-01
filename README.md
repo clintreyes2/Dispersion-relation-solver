@@ -101,7 +101,7 @@ Originally distributed in:
 
 ## Citation
 
-Please cite the software repository and the accompanying Ocean Engineering paper. Update `CITATION.cff` with the new repository URL, release date, version, and Zenodo DOI after publishing this standalone repository.
+Please cite the software repository and the accompanying Ocean Engineering paper. 
 
 ## License
 
