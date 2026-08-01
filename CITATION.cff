@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "disp_rel_ee2: MATLAB dispersion-relation solver with evanescent modes"
+title: "Dispersion-relation-solver: MATLAB dispersion-relation solver with evanescent modes"
 message: "If you use this software, please cite this repository and the accompanying paper."
 type: software
 authors:
