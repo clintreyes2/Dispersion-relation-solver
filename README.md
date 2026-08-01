@@ -1,4 +1,4 @@
-# disp_rel_ee2
+# Dispersion-relation-solver
 
 MATLAB solver for the linear water-wave dispersion relation, including the propagating wavenumber and a user-specified number of evanescent-mode wavenumbers.
 
