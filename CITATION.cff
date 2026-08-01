@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-7500-1265"
 version: 1.0.0
 license: MIT
-repository-code: "https://github.com/clintreyes2/disp_rel_ee2"
+repository-code: "https://github.com/clintreyes2/Dispersion-relation-solver"
 references:
   - type: article
     title: "An analytical study of a dual-function oscillating water column with nonlinear power take-off and a slotted supporting wall"
