@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "disp_rel_ee2: MATLAB dispersion-relation solver with evanescent modes"
+message: "If you use this software, please cite this repository and the accompanying paper."
+type: software
+authors:
+  - family-names: Reyes
+    given-names: Clint C. M.
+    orcid: "https://orcid.org/0000-0002-7500-1265"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/clintreyes2/disp_rel_ee2"
+references:
+  - type: article
+    title: "An analytical study of a dual-function oscillating water column with nonlinear power take-off and a slotted supporting wall"
+    authors:
+      - family-names: Reyes
+        given-names: Clint C. M.
+      - family-names: Huang
+        given-names: Zhenhua
+    year: 2026
+    journal: "Ocean Engineering"
+    doi: "10.1016/j.oceaneng.2026.127222"
