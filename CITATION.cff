@@ -6,6 +6,7 @@ authors:
   - family-names: Reyes
     given-names: Clint C. M.
     orcid: "https://orcid.org/0000-0002-7500-1265"
+doi: 10.5281/zenodo.21732033
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/clintreyes2/Dispersion-relation-solver"
