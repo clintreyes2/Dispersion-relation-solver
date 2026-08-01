@@ -1,5 +1,7 @@
 # Dispersion-relation-solver
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21732033.svg)](https://doi.org/10.5281/zenodo.21732033)
+
 MATLAB solver for the linear water-wave dispersion relation, including the propagating wavenumber and a user-specified number of evanescent-mode wavenumbers.
 
 This function was separated from the repository accompanying:
